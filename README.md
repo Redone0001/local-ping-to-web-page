@@ -10,7 +10,7 @@ Installation :
 
 Usage :
 
-place all the ip adress you want to ping inside the list.txt file
+place all the ip adress you want to ping inside the flaskr/list.txt file
 carefull with the syntax it should follow this format :
 
 xxx.xxx.xxx.xxx
