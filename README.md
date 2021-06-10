@@ -20,6 +20,7 @@ yyy.yyy.yyy.yyy
 exemple:
 
 192.168.0.1
+
 8.8.8.8
 
 You will have the result in the web page and the terminal.
