@@ -14,6 +14,7 @@ place all the ip adress you want to ping inside the list.txt file
 carefull with the syntax it should follow this format :
 
 xxx.xxx.xxx.xxx
+
 yyy.yyy.yyy.yyy
 
 exemple:
